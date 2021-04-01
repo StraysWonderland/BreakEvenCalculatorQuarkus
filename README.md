@@ -30,3 +30,7 @@ Quarkus allows to test the code by running it locally with hot reload.
   ```bash
   ./mvnw package -Pnative
   ```
+
+## Slideshow
+Clone this repo and open [QuarkusSlideshow.html](https://github.com/StraysWonderland/BreakEvenCalculatorQuarkus/blob/master/QuarkusSlideshow.html) which summarises how to work with Quarkus.
+- created using html and markdown via [remark.js](https://github.com/gnab/remark)
