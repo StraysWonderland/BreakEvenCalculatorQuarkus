@@ -10,9 +10,9 @@ The code is a simple break even function.
 ## Running Locally
 Quarkus allows to test the code by running it locally with hot reload.
 - compile in development mode
-```bash
-./mvnw compile quarkus:dev
-```
+  ```bash
+  ./mvnw compile quarkus:dev
+  ```
 
 ## Package into native executable
 - add to pom.xml
